@@ -6,9 +6,9 @@ namespace _26_04
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("asd World!");
-            Console.WriteLine("vss!");
-            Console.WriteLine("!");
+            Console.WriteLine("Hello World!");
+            Console.WriteLine("Hello!");
+            Console.WriteLine("Hiel");
         }
     }
 }
